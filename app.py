@@ -6,12 +6,11 @@ from streamlit_pandas_profiling import st_profile_report
 
 # Web App Title
 st.markdown('''
-# **The EDA App**
-
-This is the **EDA App** created in Streamlit using the **pandas-profiling** library.
-
-**Credit:** App built in `Python` + `Streamlit` by [Chanin Nantasenamat](https://medium.com/@chanin.nantasenamat) (aka [Data Professor](http://youtube.com/dataprofessor))
-
+### **Crypto Data Analysis**
+Data analysis is a process of inspecting, cleansing, transforming, and modelling data with the goal of 
+discovering useful information, informing conclusions, and supporting decision-making.
+Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of 
+names, and is used in different business, science, and social science domains.
 ---
 ''')
 
