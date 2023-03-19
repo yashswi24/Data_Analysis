@@ -6,11 +6,14 @@ from streamlit_pandas_profiling import st_profile_report
 
 # Web App Title
 st.markdown('''
-### **Crypto Data Analysis**
+# **Crypto Analysis App**
+
 Data analysis is a process of inspecting, cleansing, transforming, and modelling data with the goal of 
 discovering useful information, informing conclusions, and supporting decision-making.
 Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of 
-names, and is used in different business, science, and social science domains.
+names, and is used in different business, science, and social science domains. 
+
+---
 ---
 ''')
 
