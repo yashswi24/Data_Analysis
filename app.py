@@ -4,7 +4,7 @@ import streamlit as st
 from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
 
-st.set_page_config(page_title="EDA App", page_icon=":bar_chart:", background_color="#000000")
+st.set_page_config(page_title="EDA App", page_icon=":bar_chart:")
 
 # Web App Title
 st.markdown('''
